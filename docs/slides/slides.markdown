@@ -8,7 +8,7 @@ nav_order: 4
 
 [Part 1: Intro](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/slides/Data_Analysis_in_R_Bayreuth_24_Part1.pdf){: .btn .btn-blue .mr-3}
 
-[Part 2: Measurement & Descriptive Stats](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/slides/Data_Analysis_in_R_Bayreuth_24_Part2.pdf){: .btn .btn-blue .mr-3}
+[comment]: <> ([Part 2: Measurement & Descriptive Stats](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/slides/Data_Analysis_in_R_Bayreuth_24_Part2.pdf){: .btn .btn-blue .mr-3}
 
 [Part 3: Bivariate Regressions](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/slides/Data_Analysis_in_R_Bayreuth_24_Part3.pdf){: .btn .btn-blue .mr-3}
 
@@ -20,4 +20,4 @@ nav_order: 4
 
 [Part 7: OLS Assumptions & Limits](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/slides/Data_Analysis_in_R_Bayreuth_24_Part7.pdf){: .btn .btn-blue .mr-3}
 
-[Part 8: Interactions & Non-Linearity](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/slides/Data_Analysis_in_R_Bayreuth_24_Part8.pdf){: .btn .btn-blue .mr-3}
+[Part 8: Interactions & Non-Linearity](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/slides/Data_Analysis_in_R_Bayreuth_24_Part8.pdf){: .btn .btn-blue .mr-3})

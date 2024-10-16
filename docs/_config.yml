@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Analysis in R Winter 23/24
+title: Data Analysis in R Winter 24
 subtitle: University of Bayreuth
 email: kenneth.stiller@uni-bayreuth.de
 description: >- # this means to ignore newlines until "baseurl:"
@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-footer_content: "Copyright &copy; 2022 Kenneth Stiller"
+footer_content: "Copyright &copy; 2024 Kenneth Stiller"
 
 
 

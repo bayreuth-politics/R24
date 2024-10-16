@@ -8,7 +8,7 @@ nav_order: 2
 
 # Glossary
 
-Here you find a brief explanation of relevant terms and concepts we will be using in class and those which are relevant when using R.
+Here you find a brief explanation of some of the key terms and concepts we will be using in class and others that are relevant when using R or analysing data.
 
 ----
 

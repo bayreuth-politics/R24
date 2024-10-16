@@ -47,3 +47,7 @@ Note that there also is a glossary that explains frequent and useful terms. You 
 ________
 
 ## Syllabus
+
+
+<embed src="R24_Syllabus_Bayreuth.pdf" width="800" height="650" 
+ type="application/pdf">

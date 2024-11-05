@@ -11,6 +11,9 @@ This is the page of the *Data Analysis in R* course in Winter Term 2024/25 at th
 
 ________
 
+## Drop-In Session: Thursday 07/11 1pm-3pm U1.26 (GWII)
+________
+
 
 ## Date & Time
 

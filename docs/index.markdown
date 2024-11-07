@@ -11,7 +11,7 @@ This is the page of the *Data Analysis in R* course in Winter Term 2024/25 at th
 
 ________
 
-## Drop-In Session: Thursday 07/11 1pm-3pm U1.26 (GWII)
+## Drop-In Session: Tuesday 12 November - 1pm-3pm online on Team. [Join here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGZkNDA3M2QtOWM3Mi00YTk4LTg4OGQtZDM2YTMwZDA2NWNm%40thread.v2/0?context=%7b%22Tid%22%3a%2254d63e24-ac6d-4c5e-a8d6-ba978a0b286e%22%2c%22Oid%22%3a%228b4c4600-7d30-4656-8e36-810bca1dcc9f%22%7d).
 ________
 
 

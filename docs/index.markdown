@@ -9,6 +9,8 @@ nav_order: 1
 
 This is the page of the *Data Analysis in R* course in Winter Term 2024/25 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
 
+________
+
 ## If you haven't done so yet, please submit your homework from script 2 via email ASAP!
 ________
 

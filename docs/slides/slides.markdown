@@ -17,6 +17,7 @@ nav_order: 4
 
 
 [Part 7:  Hypothesis Testing](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week7.pdf){: .btn .btn-blue .mr-3}
+[Part 8:  OLS Assumptions & Limits](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week8.pdf){: .btn .btn-blue .mr-3}
 
 [comment]: <> ([Part 2: Measurement & Descriptive Stats] https://github.com/bayreuth-politics/R24/blob/6c48652a26ab0ad890107cc351e099126718a880/docs/slides/DataR_24_Week1.pdf{: .btn .btn-blue .mr-3})
 

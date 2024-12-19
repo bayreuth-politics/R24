@@ -11,7 +11,17 @@ This is the page of the *Data Analysis in R* course in Winter Term 2024/25 at th
 
 ________
 
-## Our class on 5 December 2024 will exceptionally take place online! [Join here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGQzNGRjMGEtMzI5OC00OGU4LTkxNzQtZDY5ZTVlMzgyMmY0%40thread.v2/0?context=%7b%22Tid%22%3a%2254d63e24-ac6d-4c5e-a8d6-ba978a0b286e%22%2c%22Oid%22%3a%228b4c4600-7d30-4656-8e36-810bca1dcc9f%22%7d).
+## Take-Home Exam
+
+You will find the take-home exam on this website on 20 January and will submit your response by 17 February at 12pm (midday) via email.
+
+You will have to choose your own data to work with. Make sure you have a reasonably large number of observations and a few variables of interest. Common sources are the Harvard Dataverse (data from published papers), keggle, the European Social Survey, the Afrobarometer, and the Quality of Government Dataset. You may well know other sources of interest or from your specific field and are welcome to use these as well. You must not use any of the datasets we worked with in the Scripts (with the excepion of QoG).
+
+If you would like me to have a look at your data, so send me your file in time before 20 January.
+
+## Exam Registration
+
+If you want to take the exam, make sure to register for the exam by 20 December on CampusOnline.
 ________
 
 

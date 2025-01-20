@@ -13,7 +13,7 @@ ________
 
 ## Take-Home Exam
 
-You can accessthe take-home exam **now via the menu on the left** and will submit your response by 17 February at 12pm (midday) via email.
+You can access the take-home exam **now via the menu on the left** and will submit your response by 17 February at 12pm (midday) via email.
 
 ________
 

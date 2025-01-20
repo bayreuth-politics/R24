@@ -18,5 +18,5 @@ Lastly, make sure to always explain your work and the choices you make when work
 
 Do reach out at any point if you have any questions. Best of luck!
 
-[Take Home Exam](https://github.com/bayreuth-politics/R/raw/gh-pages/docs/Data_Analysis_in_R_24_THE.pdf){: .btn .btn-blue }
+[Take Home Exam](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/Data_Analysis_in_R_24_THE.pdf){: .btn .btn-blue }
 

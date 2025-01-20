@@ -13,15 +13,8 @@ ________
 
 ## Take-Home Exam
 
-You will find the take-home exam on this website on 20 January and will submit your response by 17 February at 12pm (midday) via email.
+You can accessthe take-home exam **now via the menu on the left** and will submit your response by 17 February at 12pm (midday) via email.
 
-You will have to choose your own data to work with. Make sure you have a reasonably large number of observations and a few variables of interest. Common sources are the Harvard Dataverse (data from published papers), keggle, the European Social Survey, the Afrobarometer, and the Quality of Government Dataset. You may well know other sources of interest or from your specific field and are welcome to use these as well. You must not use any of the datasets we worked with in the Scripts (with the excepion of QoG).
-
-If you would like me to have a look at your data, so send me your file in time before 20 January.
-
-## Exam Registration
-
-If you want to take the exam, make sure to register for the exam by 20 December on CampusOnline.
 ________
 
 
